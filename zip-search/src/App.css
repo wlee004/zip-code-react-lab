@@ -4,3 +4,9 @@
   color: white;
   text-align: center;
 }
+
+.card{
+  margin: auto;
+  max-width: 50%;
+  margin-bottom: 2%;
+}
